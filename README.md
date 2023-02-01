@@ -15,3 +15,4 @@ Meanwhile, the processing time of the workflow are 10.4 and 5.7 s/image for cott
 This new method can act as a low-cost real time tool to quantify crop early emergence in a shorter time and lower cost. Further application can be exploring relationship between crop emergence and environmental factors, weather conditions, and different treatments for researchers as well as field scouting for farmers especially for area inaccessible by ground vehicles.
 
 ## Workflow
+![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig3.PNG)
