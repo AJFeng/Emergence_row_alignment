@@ -4,7 +4,7 @@ This is the code related to our paper 'Geo-referencing Single Images from Consum
 
 Feng, A., Vong, C. N., Zhou, J., Conway, L. S., Zhou, J., Vories, E. D., ... & Kitchen, N. R. (2023). Developing an image processing pipeline to improve the position accuracy of single UAV images. Computers and Electronics in Agriculture, 206, 107650.
 
-## Goal
+## Goal and novelty
 The goal of this study was to develop a real-time image processing pipeline to process individual UAV images with improved geo-reference accuracy for further crop emergence mapping at field-scale. 
 
 The novelty of this study is to provide an improved geo-reference accuracy image processing workflow in processing sequential individual UAV images.
@@ -13,3 +13,5 @@ Further, the workflow also includes field-scale mapping of different crop emerge
 Meanwhile, the processing time of the workflow are 10.4 and 5.7 s/image for cotton and corn field, respectively, which is extremely lower than the time needed for image stitching from commercial software (88.7 and 97.4 s/image).
 
 This new method can act as a low-cost real time tool to quantify crop early emergence in a shorter time and lower cost. Further application can be exploring relationship between crop emergence and environmental factors, weather conditions, and different treatments for researchers as well as field scouting for farmers especially for area inaccessible by ground vehicles.
+
+## Workflow
