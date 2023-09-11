@@ -16,3 +16,27 @@ This new method can act as a low-cost real time tool to quantify crop early emer
 
 ## Workflow
 ![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig3.PNG)
+
+![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig5.png)
+
+Fig. 5. Crop row alignment. There were 10 cotton rows identified manually in the first image from the cotton field. The numbers of 9 cotton rows identified by the SHT in the second image frame were aligned with the first image frame based on the distance in pixels in the E-W direction (tx) from the geometric transformation matrix M. The distance in pixels in the N-S direction (ty) determined the image position within the entire crop row.
+
+![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig6.png)
+
+Fig. 6. Illustration of determining image positions within each entire crop row. Black cross in each combined image represents the center position for each image in their combined image.
+
+
+## Position accuracy evaluation using GCPs
+![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig8.png)
+
+Fig. 8. Location of ground control points (GCPs) in a) corn field and b) cotton field as well as demonstration of distance comparison between two different kinds of systems for the position accuracy evaluation: b) ground RTK measurement and c) pipeline measurement.
+
+
+## Mapping results
+![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig11.png)
+
+Fig. 11. Cotton field emergence maps of a) stand count and b) canopy size with full dimension of 152 crop rows × 315 m length for each crop row and their down-sampled maps with dimension of 38 × 63 in c and d, respectively, where each data point equates to a 4 m × 5 m area. A crop yield map with the same 4 m × 5 m cell size is shown in e. 
+
+![alt text](https://github.com/AJFeng/Emergence_row_alignment/blob/main/Fig12.png)
+
+Fig. 12. Schematic diagram showing the treatment and non-treatment crop rows (a) and their emergence maps of stand count (plant m-1, b), mean days to imaging after emergence (DAEmean, days, c), and standard deviation of plant spacing (PSstd, cm m-1, d) in corn field.
